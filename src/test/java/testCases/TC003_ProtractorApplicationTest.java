@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TC003_ProtractorApplicationTest extends BaseClass {
 
-	@Test(groups = { "Master", "Sanity" })
+	@Test(groups = { "Master", "Application" })
 	public void verify_PracticeForm() {
 
 		try {

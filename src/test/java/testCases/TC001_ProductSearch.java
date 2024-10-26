@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TC001_ProductSearch extends BaseClass {
 
-	@Test(groups = { "Master", "Sanity" })
+	@Test(groups = { "Master", "Veggie" })
 	public void verify_ProductSearch() {
 
 		try {

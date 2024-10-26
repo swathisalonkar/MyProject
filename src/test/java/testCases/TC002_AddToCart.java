@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TC002_AddToCart extends BaseClass {
 
-	@Test(groups = { "Master", "Sanity" })
+	@Test(groups = { "Master", "Veggie" })
 	public void verify_AddToCart() throws InterruptedException {
 
 		try {
