@@ -1,9 +1,11 @@
 testCases\TC001_ProductSearch.class
-pageObjects\BasePage.class
-utilities\ExtentReportManager.class
 pageObjects\HomePage.class
-utilities\DataProviders.class
 utilities\ExcelUtility.class
+pageObjects\ApplicationFill.class
 testBase\BaseClass.class
 pageObjects\AddProductsToCart.class
 testCases\TC002_AddToCart.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+utilities\DataProviders.class
+testCases\TC003_ProtractorApplicationTest.class

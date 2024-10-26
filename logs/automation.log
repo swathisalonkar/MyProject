@@ -62,3 +62,18 @@ suiteXmlPath: "D:\eclipse-workspace\MyProject\Master.xml"
 -------Finished TC001_ProductSearch-------
 -------Starting TC002_AddToCart-------
 -------Finished TC002_AddToCart-------
+suiteXmlPath: "D:\eclipse-workspace\MyProject\Master.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\MyProject\Master.xml
+
+-------Started TC003_ProtractorApplicationTest-------
+-------Finished TC003_ProtractorApplicationTest-------
+suiteXmlPath: "D:\eclipse-workspace\MyProject\Master.xml"
+[TestNG] Running:
+  D:\eclipse-workspace\MyProject\Master.xml
+
+-------Started TC003_ProtractorApplicationTest-------
+-------Finished TC003_ProtractorApplicationTest-------
+suiteXmlPath: "D:\eclipse-workspace\MyProject\Master.xml"
+-------Started TC003_ProtractorApplicationTest-------
+-------Finished TC003_ProtractorApplicationTest-------

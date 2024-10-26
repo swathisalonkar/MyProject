@@ -12,8 +12,9 @@
 		<parameter name="browser" value="chrome"></parameter>
 
 		<classes>
-			<class name="testCases.TC001_ProductSearch" />
-			<class name="testCases.TC002_AddToCart" />
+			<!--<class name="testCases.TC001_ProductSearch" />
+			<class name="testCases.TC002_AddToCart" />-->
+			<class name="testCases.TC003_ProtractorApplicationTest" />
 		</classes>
 	</test>
 </suite> 
